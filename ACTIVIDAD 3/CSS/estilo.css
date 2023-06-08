@@ -1,0 +1,36 @@
+.item {
+scale:1.2;
+}
+
+h2 {
+color: rgb(255, 255, 255);
+background-color: blue;
+text-align: center;}
+
+nav{
+ text-align: center;
+ background-color: blue;}
+
+a{
+    color: white;
+    font-size: large;
+    font-size: xx-large;
+}
+
+h1{
+    color: white
+    ;
+    text-align: center;
+    background-color: blue;
+    }
+
+p{
+    color: blue;
+    font-size: 16px;
+    text-align: justify;
+}
+.center{
+    margin: 0 auto;
+    width: 50%;
+    display: block;
+   }
