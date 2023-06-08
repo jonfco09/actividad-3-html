@@ -8,13 +8,15 @@ background-color: blue;
 text-align: center;}
 
 nav{
- text-align: center;
- background-color: blue;}
+    text-align: center;
+background-color: blue;}
 
-a{
+a{  
     color: white;
-    font-size: large;
-    font-size: xx-large;
+    font-size: 6ch;
+    background-color: blue;
+
+    
 }
 
 h1{
